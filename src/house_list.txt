@@ -1,0 +1,90 @@
+123 Waihili PL, Honolulu, HI
+Philly Tran
+96825
+2018
+4
+1225000
+4938 Morse Ave, Sherman Oaks, CA
+Bob Shin
+91423
+2013
+5
+768200
+148 Todd Pl NE, Washington, DC
+Candra Scott
+20002
+1989
+4
+807977
+2780 E Capitol Expy, San Jose, CA
+Andrew Jiang
+95148
+1967
+3
+399900
+779 Logan St, Brooklyn NY
+Eger Morris
+11208
+2016
+6
+779000
+1216 Elston St, Michigan City, IN
+Gen Roise
+46360
+1999
+3
+160000
+523 S Plymouth Ct, Chicago, IL
+Jefrry Richards
+60605
+1978
+3
+239900
+7426 Chattington Dr, Dallas, TX
+Tony Yank
+75248
+2011
+4
+645000
+17924 Castle Bend Dr, Dallas, TX
+Rams Ta
+75287
+1978
+5
+850000
+19469 Blue Stem Ct, Maple Grove, MN
+Serena Williams
+55311
+2017
+4
+499990
+5134 Gilard Ave N, Minneapolis, MN
+Kevin Ho
+55430
+2020
+3
+281900
+648 NE 5th Way, Homestead, Fl
+Noor Seal
+33034
+1978
+3
+379000
+7938 ridgewood Dr, Lake Worth, FL
+Catherine Lepiet
+33467
+1999
+3
+325000
+7716 Certitude Ave, Las Vegas, NV
+Gianna West
+89131
+1994
+3
+369000
+653 Sole Addiction Ave, Las Vegas, NV
+Brian Todd
+89183
+2019
+3
+350000
